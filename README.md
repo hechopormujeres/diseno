@@ -1,5 +1,7 @@
 # DpM | Diseñado por Mujeres
 
+### Pioneras en Diseño
+
 [DpM](https://disenado.pormujeres.cl/) es un proyecto de investigación sobre mujeres pioneras del Diseño en Chile, a nivel de prácticas y discursos, para la construcción de un entorno disciplinar con equidad de género.
 
 [DpM](https://disenado.pormujeres.cl/) ha sido concebida como la propuesta de un modelo instrumental que se distancia del androcentrismo e incorpora una perspectiva no sexista en el propio proceso investigativo, desafiando los cánones modernos y objetivistas para la construcción de una historia de las pioneras del diseño.
